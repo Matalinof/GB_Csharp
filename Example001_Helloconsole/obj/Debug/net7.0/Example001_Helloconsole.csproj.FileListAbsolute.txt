@@ -1,0 +1,14 @@
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/bin/Debug/net7.0/Example001_Helloconsole
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/bin/Debug/net7.0/Example001_Helloconsole.deps.json
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/bin/Debug/net7.0/Example001_Helloconsole.runtimeconfig.json
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/bin/Debug/net7.0/Example001_Helloconsole.dll
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/bin/Debug/net7.0/Example001_Helloconsole.pdb
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/Example001_Helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/Example001_Helloconsole.AssemblyInfoInputs.cache
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/Example001_Helloconsole.AssemblyInfo.cs
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/Example001_Helloconsole.csproj.CoreCompileInputs.cache
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/Example001_Helloconsole.dll
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/refint/Example001_Helloconsole.dll
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/Example001_Helloconsole.pdb
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/Example001_Helloconsole.genruntimeconfig.cache
+/Users/nadezdastarikova/Desktop/Дима/Программирование/ГБ/Введение в языки/Examples/Example001_Helloconsole/obj/Debug/net7.0/ref/Example001_Helloconsole.dll
